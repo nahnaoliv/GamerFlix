@@ -1,5 +1,5 @@
-# Interface inspirada do Nerflix.
+# Interface inspirada do Netflix.
 
-##### Recriando a interface do Neflix com uso de HTML, CSS, JavaScript e JQuery. 
+##### Recriando a interface do Netflix com uso de HTML, CSS, JavaScript e JQuery. 
 
 ![Netflix](gamerfilximg.png)
